@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="676511b7-ec69-4fa3-98f4-7a592fd19557" name="Changes" comment="test.cml">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0282acd7-7069-47ab-b8b5-a82f331b0a07-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14619188-55b0-4a9e-a7dd-07d42f6e2426-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/172674f4-455e-46f0-94a7-188b82d0617c-attachment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1fbdf5db-7054-4628-8645-51fb5f93e3c6-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46120be3-f04e-45c2-b7f7-a05c751c0634-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/48ed19bb-e840-4eb6-8f4e-12f4a184b2df-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58be0ed4-a68a-4fd9-8aaa-98f2bb68a162-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5efd870a-0182-4334-b469-1a5f0cd74fde-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a7accce-5427-4fcc-adb7-6d3393138673-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6dc90744-8c1e-4ff7-9668-32423f98209c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/717b5945-fcdb-4aaf-bf1c-cfb7e942cc1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e89d1d8-d255-463b-833a-b5e8c2c7ff32-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9cec7cff-22cf-4072-8a71-f98a33c16b0f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d13b4129-0610-4bb2-844e-48cd1c39ed6a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d155d1a3-fa1f-4f08-b10b-ae49714c9324-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1af5787-c336-44ec-8af0-fc1e1d147ce9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d1e3a9f0-dcbe-4863-b088-7ca8b0d27c3a-attachment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7d02f73-b73b-428e-a1c3-61336a5917f9-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f8cf3387-a156-4172-9d3d-39c3fb3a3c9f-attachment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fba6ddaf-c2ba-4ee5-96bd-f628d5123ddc-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execution-summary/ExecutionSummaryReport_28-08-2024_16-45-16-0264-pm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extent-reports/ExtentReports_28-08-2024_16-45-07-0749-pm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_allure_report.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/TestNG.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/customWebdriverCapabilities.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/TestNG.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/customWebdriverCapabilities.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/default/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.ContainerLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.FixtureLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.StepLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.TestLifecycleListener" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/org.testng.ITestNGListener" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="productListTests.verifyTheProductData" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lFflsv8K8aiCpUKqoxiV0JGkeA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.C:/Users/Lenovo/IdeaProjects/saucedemoo/testNGSuites/smokeTests.xml.executor": "Run",
+    "TestNG.addToCardTests.RemoveFromCardAndAssertThat.executor": "Run",
+    "TestNG.addToCardTests.addToCardAndAssertThat.executor": "Run",
+    "TestNG.addToCardTests.executor": "Run",
+    "TestNG.loginTests.executor": "Run",
+    "TestNG.loginTests.loginWithINValidCredentials.executor": "Run",
+    "TestNG.loginTests.loginWithValidCredentials.executor": "Run",
+    "TestNG.login_logoutTests.loginWithINValidCredentials.executor": "Run",
+    "TestNG.login_logoutTests.loginWithLockedUser.executor": "Run",
+    "TestNG.login_logoutTests.userCanLogoutSuccessfully.executor": "Run",
+    "TestNG.productListTests.sortTheProductsbyPriceFromLowTooHigh.executor": "Run",
+    "TestNG.productListTests.verifyThatTheProductListIsDisplayed.executor": "Run",
+    "TestNG.productListTests.verifyTheProductData.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/saucedemoo/src/main/java/io/github/DinaSamy/Main.java",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.productListTests.verifyTheProductData">
+    <configuration name="C:/Users/Lenovo/IdeaProjects/saucedemoo/testNGSuites/smokeTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemoo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNGSuites/smokeTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login_logoutTests.loginWithINValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="smokeTest.login_logoutTests" />
+      <option name="METHOD_NAME" value="loginWithINValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login_logoutTests.loginWithLockedUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="smokeTest.login_logoutTests" />
+      <option name="METHOD_NAME" value="loginWithLockedUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productListTests.verifyThatTheProductListIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="smokeTest.productListTests" />
+      <option name="METHOD_NAME" value="verifyThatTheProductListIsDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productListTests.verifyTheProductData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="saucedemoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="smokeTest.productListTests" />
+      <option name="METHOD_NAME" value="verifyTheProductData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/saucedemoo/testNGSuites/smokeTests.xml" />
+      <item itemvalue="TestNG.login_logoutTests.loginWithINValidCredentials" />
+      <item itemvalue="TestNG.login_logoutTests.loginWithLockedUser" />
+      <item itemvalue="TestNG.productListTests.verifyThatTheProductListIsDisplayed" />
+      <item itemvalue="TestNG.productListTests.verifyTheProductData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.productListTests.verifyTheProductData" />
+        <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/saucedemoo/testNGSuites/smokeTests.xml" />
+        <item itemvalue="TestNG.productListTests.verifyThatTheProductListIsDisplayed" />
+        <item itemvalue="TestNG.login_logoutTests.loginWithLockedUser" />
+        <item itemvalue="TestNG.login_logoutTests.loginWithINValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676511b7-ec69-4fa3-98f4-7a592fd19557" name="Changes" comment="" />
+      <created>1724780900915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724780900915</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st classes">
+      <option name="closed" value="true" />
+      <created>1724786836306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724786836307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st classess">
+      <option name="closed" value="true" />
+      <created>1724788213685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724788213686</updated>
+    </task>
+    <task id="LOCAL-00003" summary="loginTestCases">
+      <option name="closed" value="true" />
+      <created>1724789770225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724789770227</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Demoo">
+      <option name="closed" value="true" />
+      <created>1724854430954</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724854430954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Demoo">
+      <option name="closed" value="true" />
+      <created>1724854638699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724854638699</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test.cml">
+      <option name="closed" value="true" />
+      <created>1724855118109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724855118109</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st classes" />
+    <MESSAGE value="1st classess" />
+    <MESSAGE value="loginTestCases" />
+    <MESSAGE value="Demoo" />
+    <MESSAGE value="test.cml" />
+    <option name="LAST_COMMIT_MESSAGE" value="test.cml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/DinaSamy/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

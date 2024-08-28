@@ -1,0 +1,38 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                         Test Method: 'smokeTest.productListTests.verifyTheProductData'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/credentials.json"". @28-08-2024 16:45:10.0768 pm
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/credentials.json"". @28-08-2024 16:45:10.0768 pm
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/credentials.json"". @28-08-2024 16:45:11.0827 pm
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/credentials.json"". @28-08-2024 16:45:11.0827 pm
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0840 pm
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0840 pm
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0856 pm
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0856 pm
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0871 pm
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"". @28-08-2024 16:45:11.0871 pm
+[ReportManager] Target URL: "https://www.saucedemo.com/" @28-08-2024 16:45:11.0903 pm
+[ReportManager] Initial URL: "about:blank" @28-08-2024 16:45:11.0934 pm
+[ReportManager] Navigate to url "https://www.saucedemo.com/". @28-08-2024 16:45:12.0698 pm
+[ReportManager] text cleared Using Native Clear @28-08-2024 16:45:12.0897 pm
+[ReportManager] Type "standard_user" into "Username". @28-08-2024 16:45:13.0022 pm
+[ReportManager] text cleared Using Native Clear @28-08-2024 16:45:13.0116 pm
+[ReportManager] Type "secret_sauce" into "Password". @28-08-2024 16:45:13.0211 pm
+[ReportManager] Moved the mouse to the middle of the element. @28-08-2024 16:45:13.0398 pm
+[ReportManager] Click "Login". @28-08-2024 16:45:13.0506 pm
+[ReportManager] Get text "Sauce Labs Onesie" from "Sauce Labs Onesie". @28-08-2024 16:45:15.0174 pm
+[ReportManager] Expected "Sauce Labs Backpack", and actual "Sauce Labs Onesie" @28-08-2024 16:45:15.0180 pm
+[ReportManager] Verification "ValidateEquals" FAILED. Expected "Sauce Labs Backpack" and Actual "Sauce Labs Onesie". Comparison Type "CONTAINS". Validation Type "POSITIVE". @28-08-2024 16:45:15.0186 pm
+[ReportManager] Verification Failed: "Sauce Labs Onesie" contains "Sauce Labs Backpack". @28-08-2024 16:45:15.0186 pm
+[ReportManager] Successfully created attachment 'Validation Test Data - Failure Reason' @28-08-2024 16:45:15.0190 pm
+[ReportManager] Get text "$29.99" from "By.xpath: //*[@id="inventory_container"]/div/div[1]/div[2]/div[2]/div". @28-08-2024 16:45:15.0293 pm
+[ReportManager] Expected "$29.99", and actual "$29.99" @28-08-2024 16:45:15.0293 pm
+[ReportManager] Verification "ValidateEquals" PASSED. Expected "$29.99" and Actual "$29.99". Comparison Type "CONTAINS". Validation Type "POSITIVE". @28-08-2024 16:45:15.0298 pm
+[ReportManager] Verification Passed: "$29.99" contains "$29.99". @28-08-2024 16:45:15.0299 pm
+[ReportManager] Get text "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." from "By.xpath: //*[@id="inventory_container"]/div/div[1]/div[2]/div[1]/div". @28-08-2024 16:45:15.0410 pm
+[ReportManager] Expected "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.", and actual "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." @28-08-2024 16:45:15.0410 pm
+[ReportManager] Verification "ValidateEquals" PASSED. Expected "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." and Actual "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.". Comparison Type "CONTAINS". Validation Type "POSITIVE". @28-08-2024 16:45:15.0415 pm
+[ReportManager] Verification Passed: "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." contains "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.". @28-08-2024 16:45:15.0415 pm

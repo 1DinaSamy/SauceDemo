@@ -1,0 +1,113 @@
+[INFO ] 2024-08-28 16:45:07.026 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.8.1.20240115[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:07.042 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-08-28 16:45:07.057 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-08-28 16:45:07.607 [main] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2024-08-28 16:45:07.607 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-08-28 16:45:07.749 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-08-28 16:45:07.970 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-08-28 16:45:07.970 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-08-28 16:45:08.143 [main] Utils - [TestNG] Running:
+  C:\Users\Lenovo\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO ] 2024-08-28 16:45:08.191 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:08.208 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-08-28 16:45:08.223 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-08-28 16:45:08.299 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of before class configuration method                                             
+                                                    'smokeTest.productListTests.beforeClass'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "credentials.json"".
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "productData.json"".
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:08.302 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:08.318 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2024-08-28 16:45:08.318 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of before method configuration method                                            
+                                                    'smokeTest.productListTests.beforeMethod'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:08.339 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-08-28 16:45:08.350 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Lenovo\IdeaProject..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-08-28 16:45:08.350 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-08-28 16:45:08.350 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[WARN ] 2024-08-28 16:45:10.642 [main] ReportManager - Aug 28, 2024 4:45:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-08-28 16:45:10.642 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 128, returning the closest version; found: 127; Please update to a Selenium version that supports CDP version 128
+[INFO ] 2024-08-28 16:45:10.643 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-08-28 16:45:10.667 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: beforeMethod'
+[INFO ] 2024-08-28 16:45:10.752 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                         Test Method: 'smokeTest.productListTests.verifyTheProductData'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:10.768 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:10.768 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:11.827 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:11.827 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/credentials.json"".
+[INFO ] 2024-08-28 16:45:11.840 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.840 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.856 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.856 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.871 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.871 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/productData.json"".
+[INFO ] 2024-08-28 16:45:11.903 [main] ReportManager - Target URL: "https://www.saucedemo.com/"
+[INFO ] 2024-08-28 16:45:11.934 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-08-28 16:45:12.705 [main] ReportManager - Navigate to url "https://www.saucedemo.com/".
+[INFO ] 2024-08-28 16:45:12.897 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-08-28 16:45:13.022 [main] ReportManager - Type "standard_user" into "Username".
+[INFO ] 2024-08-28 16:45:13.116 [main] ReportManager - text cleared Using Native Clear
+[INFO ] 2024-08-28 16:45:13.211 [main] ReportManager - Type "secret_sauce" into "Password".
+[INFO ] 2024-08-28 16:45:13.398 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2024-08-28 16:45:13.507 [main] ReportManager - Click "Login".
+[WARN ] 2024-08-28 16:45:15.052 [main] ReportManager - Aug 28, 2024 4:45:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2024-08-28 16:45:15.053 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 128, returning the closest version; found: 127; Please update to a Selenium version that supports CDP version 128
+[INFO ] 2024-08-28 16:45:15.174 [main] ReportManager - Get text "Sauce Labs Onesie" from "Sauce Labs Onesie".
+[INFO ] 2024-08-28 16:45:15.180 [main] ReportManager - Expected "Sauce Labs Backpack", and actual "Sauce Labs Onesie"
+[INFO ] 2024-08-28 16:45:15.186 [main] ReportManager - Verification "ValidateEquals" FAILED. Expected "Sauce Labs Backpack" and Actual "Sauce Labs Onesie". Comparison Type "CONTAINS". Validation Type "POSITIVE".
+[INFO ] 2024-08-28 16:45:15.190 [main] ReportManager - Successfully created attachment 'Validation Test Data - Failure Reason'
+[INFO ] 2024-08-28 16:45:15.293 [main] ReportManager - Get text "$29.99" from "By.xpath: //*[@id="inventory_container"]/div/div[1]/div[2]/div[2]/div".
+[INFO ] 2024-08-28 16:45:15.293 [main] ReportManager - Expected "$29.99", and actual "$29.99"
+[INFO ] 2024-08-28 16:45:15.298 [main] ReportManager - Verification "ValidateEquals" PASSED. Expected "$29.99" and Actual "$29.99". Comparison Type "CONTAINS". Validation Type "POSITIVE".
+[INFO ] 2024-08-28 16:45:15.410 [main] ReportManager - Get text "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." from "By.xpath: //*[@id="inventory_container"]/div/div[1]/div[2]/div[1]/div".
+[INFO ] 2024-08-28 16:45:15.410 [main] ReportManager - Expected "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.", and actual "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."
+[INFO ] 2024-08-28 16:45:15.415 [main] ReportManager - Verification "ValidateEquals" PASSED. Expected "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection." and Actual "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.". Comparison Type "CONTAINS". Validation Type "POSITIVE".
+[INFO ] 2024-08-28 16:45:15.423 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: verifyTheProductData'
+[INFO ] 2024-08-28 16:45:15.423 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                              Finished Execution of Test Method: 'smokeTest.productListTests.verifyTheProductData'                              
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:15.453 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of after method configuration method                                             
+                                                    'smokeTest.productListTests.afterMethod'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:15.653 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-08-28 16:45:15.653 [main] ReportManager - Setting "openAllureReportAfterExecution" property with "true".
+[INFO ] 2024-08-28 16:45:15.661 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: afterMethod'
+[INFO ] 2024-08-28 16:45:15.667 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-08-28 16:45:15.667 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-08-28 16:45:15.670 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-08-28 16:45:15.671 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

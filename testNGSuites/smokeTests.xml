@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sauce Demo Tests">
+    <test verbose="2" preserve-order="true" name="Sauce Demo Tests">
+        <classes>
+            <class name="smokeTest.login_logoutTests">
+                <methods>
+                    <include name="loginWithValidCredentials"/>
+                    <include name="loginWithINValidCredentials"/>
+                    <include name="loginWithLockedUser"/>
+                    <include name="userCanLogoutSuccessfully"/>
+                </methods>
+            </class>
+            <class name="smokeTest.productListTests">
+                <methods>
+                    <include name="verifyTheProductData"/>
+                    <include name="sortTheProductsbyPriceFromLowTooHigh"/>
+                </methods>
+            </class>
+            <class name="smokeTest.addToCardTests">
+                <methods>
+                    <include name="addToCardAndAssertThat"/>
+                    <include name="RemoveFromCardAndAssertThat"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

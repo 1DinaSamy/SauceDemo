@@ -1,0 +1,2 @@
+[ReportManager] Successfully Closed Driver. @28-08-2024 16:45:15.0653 pm
+[ReportManager] Setting "openAllureReportAfterExecution" property with "true". @28-08-2024 16:45:15.0653 pm

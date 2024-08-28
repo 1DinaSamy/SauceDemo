@@ -1,0 +1,12 @@
+{
+  "product1": {
+    "name": "Sauce Labs Onesie",
+    "price": "$7.99",
+    "disc": "Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel."
+  },
+  "product2": {
+    "name": "Sauce Labs Backpack",
+    "price": "$29.99",
+    "disc": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."
+  }
+}
